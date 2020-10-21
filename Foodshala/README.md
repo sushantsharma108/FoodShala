@@ -1,3 +1,5 @@
-# Foodshala---online-food-order-system
+# Foodshala-Online Food Ordering System
  
-i have made is project using PHP as a server side language and HTML, CSS, Bootstrap and javascript as front end and MySQL for databse.
+I have made this mini project using PHP as a server side language and HTML, CSS, Bootstrap and JavaScript as Front end and MySQL for databse.
+
+You can run this project on your localhost using XAMPP or Wamp Server.
